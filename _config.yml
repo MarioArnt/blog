@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: Mario Arnautou
+subtitle: Personal blog
+description: I'll try to regularly post here interesting articles about IT engineering, Web Development and DevOps
 keywords:
-author: John Doe
-language:
-timezone:
+author: Mario Arnautou
+language: en
+timezone: Europe/Paris
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://mario.arnautou.fr
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,8 +73,19 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-
+theme: cactus
+theme_config:
+  colorscheme: light
+  social_links:
+    github: https://github.com/MarioArnt
+    codepen: http://codepen.io/MarioArnt
+    linkedin: https://fr.linkedin.com/in/mario-arnautou-pages-722a51108
+    mail: mailto:mario@arnautou.fr
+  nav:
+    Home: /
+    About: /about/
+    Writing: /archives/
+    Projects: https://github.com/MarioArnt?tab=repositories
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
