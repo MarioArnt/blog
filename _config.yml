@@ -75,7 +75,7 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: cactus
 theme_config:
-  colorscheme: light
+  colorscheme: classic
   social_links:
     github: https://github.com/MarioArnt
     codepen: http://codepen.io/MarioArnt

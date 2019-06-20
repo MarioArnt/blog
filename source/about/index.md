@@ -13,4 +13,5 @@ I'm now focused on serverless architectures, using mainly typescript in both fro
 
 My current employer is a human-sized IT services company called [Neoxia](https://neoxia.com).
 
-As I feel pretty happy here and [they are hiring](https://neoxia.com/offresemploi), so I recommand you to apply if you are looking for a position as software or DevOps engineer.
+I feel pretty happy here and [they are hiring](https://neoxia.com/offresemploi). 
+So I recommand you to apply if you are looking for a position as software or DevOps engineer.
