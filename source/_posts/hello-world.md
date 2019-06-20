@@ -2,43 +2,21 @@
 title: Hello World
 date: 2019-06-14 16:56:04
 tags:
-- Foo
-- Bar
+- NodeJS
 categories: 
-- Baz
+- News
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+Hello World !
 
-### Create a new post
+This is my first post on this *"micro-blog"*.
 
-``` bash
-$ hexo new "My New Post"
-```
+I made it using [hexo](https://hexo.io/), a dead-simple static website generator based on NodeJS.
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+I'll try to regularly post here articles related to web development in general.
 
-### Run server
+Now (June 2019), I am mainly working on serverless architectures. Using typescript-written NodeJS lambda on back-end, and Vue or Angular in front-end.
 
-``` bash
-$ hexo server
-```
+So I guess my future articles will deal will these topics.
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+Stay tuned ;-)

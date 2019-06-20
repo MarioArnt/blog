@@ -1,12 +1,7 @@
 [
   {
-     "name":"Hexo",
-     "url":"https://hexo.io/",
-     "desc":"A fast, simple & powerful blog framework"
-  },
-  {
-     "name":"Font Awesome",
-     "url":"http://fontawesome.io/",
-     "desc":"The iconic font and CSS toolkit"
+     "name":"Bringgle",
+     "url":"https://github.com/MarioArnt/bringgle/",
+     "desc":"Real-time collaborative shareable check-lists. Made with Express/Vue/Mongo stack. Will deploy it on a Kubernetes cluster if I find some time to do so."
   }
 ]
