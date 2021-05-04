@@ -12,7 +12,9 @@ categories:
 
 # Implement functional tests for serverless architectures
 
-I recently have to write functional tests for a NodeJS serverless application.
+> *Important*: this article is outdated ! This is not the correct way to run functional tests on lambda/dynamoDB projects. There are faster and more reliable way to do it without launching a serverless-offline process.
+
+I recently had to write functional tests for a NodeJS serverless application.
 
 The setup process is not that obvious so I decided to post an article here to explain how to get started.
 

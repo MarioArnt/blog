@@ -1,5 +1,20 @@
 [
   {
+    "name":"Dynamodels",
+    "url":"https://github.com/neoxia/dynamodels/",
+    "desc":"Typescript overlay to easily interact with DynamoDB. Fluid synthax library offering pagination, auto-escape of reserved words and many more."
+  },
+  {
+    "name":"Azure JWT Lite",
+    "url":"https://github.com/MarioArnt/azure-ad-jwt-lite",
+    "desc":"Lightweight (<320kb unzipped) library to validate Microsoft AzureAD. Written in typescript fully-tested with 100% code coverage"
+  },
+  {
+    "name":"Sentenza",
+    "url":"https://github.com/MarioArnt/sentenza/",
+    "desc":"Sentenza helps you to trigger CI pipelines. From a script, another pipeline, your laptop... no matter. Sentenza always follow his job through. You know that."
+  },
+  {
      "name":"Bringgle",
      "url":"https://github.com/MarioArnt/bringgle/",
      "desc":"Real-time collaborative shareable check-lists. Made with Express/Vue/Mongo stack. Will deploy it on a Kubernetes cluster if I find some time to do so."
